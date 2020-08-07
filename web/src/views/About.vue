@@ -6,10 +6,10 @@
 
 <script>
 // @ is an alias to /src
-import Map from '@/components/map.vue'
+import Map from '@/components/renewMap.vue'
 
 export default {
-  name: 'Home',
+  name: 'About',
   components: {
     Map
   }
